@@ -1,23 +1,60 @@
 <html>
 <style type="text/css">
+	@font-face {
+	  font-family: 'Funkydori';
+	  src: url('UVF_Funkydori.ttf');
+	}
+	@font-face {
+	  font-family: 'Majerit Headline';
+	  src: url('majeritheadlinecondensedbold-webfont.woff');
+	}
+	@font-face {
+	  font-family: 'Benton Regular';
+	  src: url('bentonsans-regular-webfont.woff');
+	}
+	h1 {
+	         font-family: Funkydori;
+			 font-size: 80px;
+			 color: white;
+			 line-height: 1px;				 
+	 
+	}
+	h2 {
+	         font-family: Benton Regular;
+			 font-size: 30px;
+			 color: white;
 
-body {
-  background: #006bf7;	
-  background-image: url('index.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: contain;
-  background-position: center;
-  width:100%;
-  height:100%;
-  clear:both;
+	}
+	body, html{
+	    display:table;
+	    height:100%;
+	    width:100%;
+        background: #00caeb;			
+	}
+	.container{
+	    display:table-cell;
+	    vertical-align:middle;
+	}
+	.container .box{
+	    width:360px;
+	    height:200px;
+	 //   background:red;
+	    margin:0 auto;
+
+	}
 </style>
   <head>
     <title>Homeoagora</title>
   </head>
 
   <body>
-
+    <div class="container">
+		<div class="box">
+			<h1 style="text-align:center;">Homeoagora</h1>
+			<h2 style="text-align:center;">Meeting of Equals</h3>
+			<img src="comingsoon.png" width="150" height="150" />		
+		</div>
+	</div>
   </body>
 
 </html>
