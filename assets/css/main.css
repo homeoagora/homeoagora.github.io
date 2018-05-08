@@ -53,7 +53,7 @@ font-style: normal;
 	h1{
 		font-size: 2.0em;
 		font-family: Funkydori !important;
-		color: #00caeb;
+		color: #3876A5;
 	}
 
 	h2,h3,h4,h5{
@@ -81,7 +81,7 @@ font-style: normal;
 	}
 
 	.subtitulo{
-		color: #00caeb !important;
+		color: #3876A5 !important;
 		font-family: Benton Regular !important;
 		text-align: center;
 	}
@@ -2087,8 +2087,8 @@ p{
 				color: rgba(255, 255, 255, 0.75);
 				text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.1875);
 				font-size: 1em;
-				text-transform: uppercase;
-				letter-spacing: 3px;
+			/*	text-transform: uppercase; */
+				letter-spacing: 1px;
 				padding: 0;
 				margin-top: 0.35em;
 			}
@@ -2137,7 +2137,7 @@ p{
 		color: #fff;
 		text-shadow: 0 0 0.5px rgba(255, 255, 255, 0.25);
 		text-align: center;
-		background: #00CAEB; url("images/banner.svg") bottom center no-repeat;
+		background: #3876A5; url("images/banner.svg") bottom center no-repeat;
 		padding: 5em 0 5em 0;
 		margin: 0;
 		background-size: 125% auto;
