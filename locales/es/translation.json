@@ -1,6 +1,8 @@
 {
   "app": {
     "title": "Encuentro de iguales",
+	"spanish": "Español",
+	"english": "Ingles",	
     "made_in": "DESCRIPCIÓN"
 },
   "greywrap": {

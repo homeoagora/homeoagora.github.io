@@ -1,6 +1,8 @@
 {
   "app": {
     "title": "Meeting of Equals",
+	"spanish": "Spanish",
+	"english": "English",
     "made_in": "DESCRIPTION"    
   },
    "greywrap": {
