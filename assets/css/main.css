@@ -61,7 +61,7 @@ font-style: normal;
 	}
 	
 	h2{
-		font-size: 1.5em !important;
+		font-size: 2em !important;
 	}
 	
 	p{
@@ -1616,7 +1616,7 @@ p{
 
 		.image.fit {
 			display: block;
-			width: 60%;
+			width: 90%;
 		}
 
 		.image.left {
