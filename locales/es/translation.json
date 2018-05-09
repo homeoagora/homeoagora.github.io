@@ -1,13 +1,13 @@
 {
   "app": {
-    "title": "Reunión de iguales",
+    "title": "Encuentro de Iguales",
 	"spanish": "Español",
 	"english": "Ingles",	
     "made_in": "Descripción",
 	"interview": "Entrevista"	
 },
   "greywrap": {
-    "description_1": "Homeoagora viene de la mezcla de \"Homeo\" que es una forma combinada que aparece en el griego donde signiﬁcaba \"igual\" o \"semejante\"  y \"Ágora\" que era un espacio público central en las antiguas ciudades griegas. El signiﬁcado literal de la palabra es \"lugar de reunión\" ,\"asamblea\"  o \"encuentro\". Por lo tanto su signiﬁcado combinado seria \"Reunión de Iguales\"",
+    "description_1": "Homeoagora viene de la mezcla de \"Homeo\" que es una forma combinada que aparece en el griego donde signiﬁcaba \"igual\" o \"semejante\"  y \"Ágora\" que era un espacio público central en las antiguas ciudades griegas. El signiﬁcado literal de la palabra es \"lugar de reunión\" ,\"asamblea\"  o \"encuentro\". Por lo tanto su signiﬁcado combinado seria \"Encuentro de Iguales\"",
     "description_2": "La mayor parte de la medicina que practicamos hoy en dia no es una relación de iguales. En la medicina alopática, cuando un doctor prescribe una medicina no ve a su paciente como un ser humano único sino como una estadística, algo que es limitado en un grupo de estudio con un tratamiento especíﬁco.",
     "description_3": "Por otro lado, la homeopatía es una ciencia médica basada en la ley de la similitud. Esta ley se reﬁere a la forma en que nos enfermamos y nos curamos. Sin embargo, uno de los principales fundamentos de esta medicina es que cada paciente es único y tiene un remedio único basado en su individualidad.",
     "description_4": "Homeoagora se construye para darle a los médicos homeópatas  y al paciente un espacio para interactuar. Para que los médicos puedan promocionarse y compartir sus experiencias. Cada médico tiene una experiencia única con sus pacientes, por lo que cada publicación tiene un gran valor para otros médicos, pacientes y futuros homeópatas. Además, esta aplicación proporcionará todas las herramientas para que los médicos puedan manejar toda la información del paciente, citas y recetas."
@@ -16,7 +16,7 @@
     "about_description_1": "Tras cuarenta años de experiencia como Homeópata, nos afirma que su mente, corazón y espíritu están al servicio de esta medicina. El reconocido médico venezolano nos aclara todas las dudas sobre esta ciencia médica.",
     "about_description_2": "Hoy en día la mayoría de nosotros no conoce algo más que la medicina tradicional con que siempre nos han tratado y los miles de medicamentos fabricados en serie disponibles a la vuelta de la esquina en cualquier farmacia. La Homeopatía, una ciencia con más de 200 años, está cobrando hoy en día mucha fuerza a raíz de la impotencia de la medicina tradicional en resolver los problemas de salud del ser humano. En esta entrevista exclusiva con Homeoagora, el Doctor Risquez, con más de cuatro décadas ejerciendo la Homeopatía nos da su visión sobre esta ciencia.",
     "about_description_3": "Diego Risquez Harris es médico cirujano, egresado de la Universidad del Zulia con post-grado de pediatría en la Clínica Pédiatrica de la Universidad de Roma. Fue miembro fundador de la Fundación Venezolana de Medicina Homeopática. En 1969 tuvo sus primeros contactos con la Homeopatía, y desde 1973 atiende consultas privadas como Homeópata, en Caracas,Venezuela. Es Autor de los libros Homeopatía, Medicina Vitalista y Reflexiones. Proveniente de una familia de médicos reconocidos, formado en la medicina alopática, es actualmente uno de los médicos homeópatas más consultados en Venezuela.",
-    "interviewe_title":"HOMEOPATIA LA MEDICINA DEL INDIVIDUO"
+    "interviewe_title":"HOMEOPATIA, LA MEDICINA DEL INDIVIDUO"
   },
   "questions":{
     "question1":"¿Qué es la homeopatía?",
