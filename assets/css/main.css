@@ -1488,7 +1488,7 @@ p{
 
 	h1, h2, h3, h4, h5, h6 {		
 		font-weight: 400;		
-		line-height: 1.75em;
+		line-height: 0em;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2077,7 +2077,7 @@ p{
 		}
 
 			#header header h1 {
-				font-weight: 600;
+				font-weight: 300;
 				font-size: 3.5em;
 				/* letter-spacing: 10px; */
 			}
