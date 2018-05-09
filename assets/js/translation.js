@@ -14,6 +14,7 @@ if (location.search) {
  i18n.setLng(params.lang, function(t) { 
      $(".nav").i18n();
      $('.subtitulo').text($.t('app.title'));
+     $('.entrevista').text($.t('app.interview'));	 
      $('.spanish').text($.t('app.spanish'));
      $('.english').text($.t('app.english'));	 	 
      $('.descripcion').text($.t('app.made_in'));
