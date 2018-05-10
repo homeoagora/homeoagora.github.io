@@ -18,6 +18,7 @@ if (location.search) {
      $('.spanish').text($.t('app.spanish'));
      $('.english').text($.t('app.english'));	 	 
      $('.descripcion').text($.t('app.made_in'));
+     $('.creado_por').text($.t('app.created_by'));	 
      $('.descripcion1').text($.t('greywrap.description_1'));
      $('.descripcion2').text($.t('greywrap.description_2'));
      $('.descripcion3').text($.t('greywrap.description_3'));
