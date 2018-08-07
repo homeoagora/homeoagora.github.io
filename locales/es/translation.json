@@ -2,7 +2,8 @@
   "app": {
     "title": "Encuentro de Iguales",
 	"spanish": "Español",
-	"english": "Ingles",	
+	"english": "Ingles",
+	"italiano": "Italiano",	
     "made_in": "Descripción",
 	"interview": "Entrevista",
 	"created_by": "Creado por"	
