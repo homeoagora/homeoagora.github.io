@@ -16,7 +16,10 @@ if (location.search) {
      $('.subtitulo').text($.t('app.title'));
      $('.entrevista').text($.t('app.interview'));	 
      $('.spanish').text($.t('app.spanish'));
-     $('.english').text($.t('app.english'));	 	 
+     $('.english').text($.t('app.english'));
+     $('.italian').text($.t('app.italian'));
+     $('.french').text($.t('app.french'));
+     $('.german').text($.t('app.german'));	 	 	 	 	 
      $('.descripcion').text($.t('app.made_in'));
      $('.creado_por').text($.t('app.created_by'));	 
      $('.descripcion1').text($.t('greywrap.description_1'));
