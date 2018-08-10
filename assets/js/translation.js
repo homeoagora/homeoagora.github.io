@@ -17,6 +17,7 @@ if (location.search) {
      $('.entrevista').text($.t('app.interview'));	 
      $('.spanish').text($.t('app.spanish'));
      $('.english').text($.t('app.english'));
+     $('.portuguese').text($.t('app.portuguese'));	 
      $('.italian').text($.t('app.italian'));
      $('.french').text($.t('app.french'));
      $('.german').text($.t('app.german'));	 	 	 	 	 

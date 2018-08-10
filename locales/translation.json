@@ -1,18 +1,18 @@
 {
   "app": {
-    "title": "Encuentro de Iguales",
-	"spanish": "Español",
-	"english": "Ingles",
-	"portuguese": "Portugues",		
+    "title": "Encontro de Iguais",
+	"spanish": "Espanhol",
+	"english": "Inglês",
+	"portuguese": "Portugues",
 	"italian": "Italiano",
-	"french": "Frances",
-	"german": "Alemán",		
-    "made_in": "Descripción",
+	"french": "Francês",
+	"german": "Alemão",		
+    "made_in": "Descrição",
 	"interview": "Entrevista",
-	"created_by": "Creado por"	
+	"created_by": "Criado pela"	
 },
   "greywrap": {
-    "description_1": "Homeoagora viene de la mezcla de \"Homeo\" que es una forma combinada que aparece en el griego donde signiﬁcaba \"igual\" o \"semejante\"  y \"Ágora\" que era un espacio público central en las antiguas ciudades griegas. El signiﬁcado literal de la palabra es \"lugar de reunión\" ,\"asamblea\"  o \"encuentro\". Por lo tanto su signiﬁcado combinado seria \"Encuentro de Iguales\"",
+    "description_1": "Homeoagora vem da mistura de \"Homeo \" que é uma forma combinada que aparece no grego onde significa \"igual \" ou \"similar \" e \"Ágora \" que era um espaço público central em cidades gregas antigas. O significado literal da palavra é \"local de reunião \", \"montagem \" ou \"encontro \". Portanto, seu significado combinado seria \"Reunião de Iguais \"",
     "description_2": "La mayor parte de la medicina que practicamos hoy en dia no es una relación de iguales. En la medicina alopática, cuando un doctor prescribe una medicina no ve a su paciente como un ser humano único sino como una estadística, algo que es limitado en un grupo de estudio con un tratamiento especíﬁco.",
     "description_3": "Por otro lado, la homeopatía es una ciencia médica basada en la ley de la similitud. Esta ley se reﬁere a la forma en que nos enfermamos y nos curamos. Sin embargo, uno de los principales fundamentos de esta medicina es que cada paciente es único y tiene un remedio único basado en su individualidad.",
     "description_4": "Homeoagora se construye para darle a los médicos homeópatas  y al paciente un espacio para interactuar. Para que los médicos puedan promocionarse y compartir sus experiencias. Cada médico tiene una experiencia única con sus pacientes, por lo que cada publicación tiene un gran valor para otros médicos, pacientes y futuros homeópatas. Además, esta aplicación proporcionará todas las herramientas para que los médicos puedan manejar toda la información del paciente, citas y recetas."
