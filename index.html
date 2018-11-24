@@ -6,11 +6,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/particles.css" />		
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<script src="assets/js/jquery-min.js" type="text/javascript"></script>
+		<script src="assets/js/particles.js" type="text/javascript"></script>		
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-8501150-9"></script>
 		<script>
+		  particlesJS.load('particles-js', 'assets/particlesjs-config.json', function() {
+		    console.log('callback - particles.js config loaded');
+		  });	
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
@@ -20,9 +25,11 @@
 		
 	</head>
 	<body>
-
+      <div id="particles-js"></div>	
+      <div class="container">
 		<!-- Header -->
-			<section id="header">
+
+			<section id="header" style="background-color:transparent;">
 				<header>
 					<h1>Homeoagora</h1>
 					<p class="subtitulo">Encuentro de iguales</p>
@@ -32,7 +39,7 @@
 					<a href="#banner" class="button style2 scrolly-middle"><div class="descripcion">Descripción</div></i></a>
 				</footer>
 			</section>
-
+       </div>
 		<!-- Banner -->
 			<section id="banner">
 				<header>
