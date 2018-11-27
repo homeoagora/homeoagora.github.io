@@ -101,7 +101,7 @@ font-style: normal;
 	padding-left: 0px !important;
 }
 
-@media screen and (max-width: 1680px) {
+@media screen and (max-width: 1920px) {
 	p{
 		padding-right: 75px;
 		padding-left: 75px;
