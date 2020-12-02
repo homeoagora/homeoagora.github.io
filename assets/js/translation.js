@@ -22,6 +22,7 @@ if (location.search) {
      $('.french').text($.t('app.french'));
      $('.german').text($.t('app.german'));	 	 	 	 	 
      $('.descripcion').text($.t('app.made_in'));
+     $('.desarrollo').text($.t('app.development'));
      $('.creado_por').text($.t('app.created_by'));	 
      $('.descripcion1').text($.t('greywrap.description_1'));
      $('.descripcion2').text($.t('greywrap.description_2'));

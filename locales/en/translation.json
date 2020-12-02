@@ -9,7 +9,8 @@
 	"german": "German",		
     "made_in": "Description",
 	"interview": "Interview",
-	"created_by": "Created by"  
+  "created_by": "Created by",
+  "development": "Development"
   },
    "greywrap": {
     "description_1": "Homeoagora comes from the mixture of \"Homeo\" which is a combined form that appears in the Greek that means \"equal\" or \"similar\" and \"Ágora\" that it was a central public space in the ancient Greek cities. The literal meaning of the word is \"place of meeting\", \"assembly\" or \"meeting\". Therefore, its combined meaning would be \"Meeting of Equals\"",
