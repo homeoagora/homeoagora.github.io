@@ -1896,6 +1896,25 @@ p{
 				background: rgba(58, 57, 57, 0.025);
 			}
 
+			input[type="button"].style4,
+			input[type="submit"].style4,
+			input[type="reset"].style4,
+			button.style4,
+			.button.style4 {
+				background:  #ffffff;
+				color: #000000;	
+				box-shadow: inset 0 0 0 1px #dad9d9;
+			}
+	
+				input[type="button"].style4:hover,
+				input[type="submit"].style4:hover,
+				input[type="reset"].style4:hover,
+				button.style4:hover,
+				.button.style4:hover {
+					background: #000000;
+					color: #ffffff;	
+				}			
+
 /* Box */
 
 	.box {
